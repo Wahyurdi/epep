@@ -1,0 +1,65 @@
+{
+  "hash": "e02ebf46",
+  "browserHash": "ec8411e0",
+  "optimized": {
+    "dat.gui": {
+      "src": "../../dat.gui/build/dat.gui.module.js",
+      "file": "dat__gui.js",
+      "fileHash": "404e240a",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "59786fa4",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "a8c377db",
+      "needsInterop": false
+    },
+    "three/addons/controls/OrbitControls": {
+      "src": "../../three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_addons_controls_OrbitControls.js",
+      "fileHash": "941a9874",
+      "needsInterop": false
+    },
+    "three/addons/geometries/TextGeometry.js": {
+      "src": "../../three/examples/jsm/geometries/TextGeometry.js",
+      "file": "three_addons_geometries_TextGeometry__js.js",
+      "fileHash": "a0763235",
+      "needsInterop": false
+    },
+    "three/addons/libs/stats.module.js": {
+      "src": "../../three/examples/jsm/libs/stats.module.js",
+      "file": "three_addons_libs_stats__module__js.js",
+      "fileHash": "f7b0c079",
+      "needsInterop": false
+    },
+    "three/addons/loaders/FontLoader.js": {
+      "src": "../../three/examples/jsm/loaders/FontLoader.js",
+      "file": "three_addons_loaders_FontLoader__js.js",
+      "fileHash": "dc91d5d2",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/DRACOLoader": {
+      "src": "../../three/examples/jsm/loaders/DRACOLoader.js",
+      "file": "three_examples_jsm_loaders_DRACOLoader.js",
+      "fileHash": "47ee2973",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/GLTFLoader": {
+      "src": "../../three/examples/jsm/loaders/GLTFLoader.js",
+      "file": "three_examples_jsm_loaders_GLTFLoader.js",
+      "fileHash": "dcea4c84",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JKTWCPHD": {
+      "file": "chunk-JKTWCPHD.js"
+    }
+  }
+}
